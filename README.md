@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Creating cool things since 2020<br><br>🤖 Vision to integrate artificial intelligence in future projects<br><br>🎯 Goals:<ul><li>Becoming a legend in website development</li> <li>Helping many people contribute to the world through software development.</li> <li>Enjoying the process.</li> </ul>🎲 Fun fact: In the beginning, I was looking into robotics instead of software until I programmed my first robot.</p>
+<p align="left">💻 Creating cool things since 2020<br><br>🤖 Vision to integrate artificial intelligence in future projects<br><br>🎯 Goals:<ul><li>Becoming a legend in website development.</li> <li>Empowering individuals and organizations that make a positive impact on the world, by utilizing my software development skills to support their missions.</li> <li>Enjoying the process.</li> </ul>🎲 Fun fact: In the beginning, I was looking into robotics instead of software until I programmed my first robot.</p>
 
 ###
 
