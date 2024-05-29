@@ -1,47 +1,30 @@
-<h1 align="left">🌐 Navigating the Digital Frontier | Full Stack Developer 🚀</h1>
-
-###
-
-<p align="left">Hey, I'm Ivan, a software dev. I blend critical thinking and design to craft seamless web experiences. My forte in algorithms and assertive communication ensures that every project I touch thrives.<br>Let's build something exceptional together!<br><br>Check my portfolio <a href="https://icortes99.netlify.app">here</a></p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 Creating cool things since 2020<br><br>🤖 Vision to integrate artificial intelligence in future projects<br><br>🎯 Goals:<ul><li>Becoming a legend in website development.</li> <li>Empowering individuals and organizations that make a positive impact on the world, by utilizing my software development skills to support their missions.</li> <li>Enjoying the process.</li> </ul>🎲 Fun fact: In the beginning, I was looking into robotics instead of software until I programmed my first robot.</p>
-
-###
-
-<h2 align="left">Proficient in</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="40" alt="gatsby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+<div align="center">
+  <img height="150" src="https://res.cloudinary.com/dhe2iy0sa/video/upload/v1717017206/mffhybgbtlfsaukkl9im.gif" alt"Gif Logo"  />
 </div>
 
 ###
 
-<h2 align="left">Let's chat and turn ideas into reality!</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/icortes99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=005F90&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://icortes99.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0B0F1D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
+  <a href="mailto:cortes.ivan353@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=AE301F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">Hi there 👋</h1>
+
+###
+
+<p align="left">Software Engineer based on Costa Rica. Exploring my superpowers and converting good ideas into reality<br>
+  <br>- 🕸️ Participating in Web3 projects and events
+  <br>- 🏗️ Creating SaaS and gaining clients as Freelance Developer 
+  <br>- 👨🏼‍🏫 Teaching my abilities for free to interested students</p>
 
 ###
